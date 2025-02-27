@@ -1,5 +1,6 @@
 # 💫 About Me:
-I’m currently working on a Therapy app<br>I’m currently learning React-Native
+🚀 I’m currently working on "Cep Psikoloğu", a therapy app.
+📱 I’m currently learning React Native to build mobile applications.
 
 
 ## 🌐 Socials:
